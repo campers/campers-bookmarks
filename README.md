@@ -5,12 +5,17 @@ My list of bookmarks
 https://github.com/sindresorhus/awesome
 
 # Java
+http://www.paralleluniverse.co/quasar/
 http://www.infoq.com/articles/Functional-Style-Callbacks-Using-CompletableFuture
 http://www.jooq.org/
 https://github.com/jOOQ/jOOL
+http://immutables.github.io/
 
 # JS
 http://shyp.github.io/2015/07/13/speed-up-your-javascript-tests.html
+https://www.reddit.com/r/javascript/comments/3bkdmw/how_do_you_guys_find_memory_leaks/
+http://cycle.js.org/
+https://github.com/DrBoolean/mostly-adequate-guide
 
 # DOM
 https://www.reddit.com/r/javascript/comments/3bdmki/why_is_the_dom_so_slow_but_other_markup_languages/
@@ -24,6 +29,7 @@ http://www.alexkras.com/11-tips-to-improve-angularjs-performance/
 
 http://www.infoq.com/news/2015/04/raffi-krikorian-rearchitecting
 http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/
+http://www.udidahan.com/2009/12/09/clarified-cqrs/
 
 ### API Design
 http://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-api/
@@ -53,12 +59,12 @@ http://micvog.com/2015/07/18/frequency-counting-algorithms-over-data-streams/
 https://www.lucidchart.com/techblog/2015/07/21/selenium-7-things-you-need-to-know-2/
 
 # UX
-http://www.lukew.com/ff/entry.asp?1950
+http://www.lukew.com/ff/entry.asp?1950 Dropdowns Should be the UI of Last Resort
 
 # Hiring
 http://www.infoq.com/news/2015/04/dod-ljubljana-2015-hiring
 https://medium.com/@mpjme/how-do-you-judge-a-javascript-programmer-by-only-5-questions-f2abdf7dfd4a
-
+http://www.jasq.org/just-another-scala-quant/inverting-binary-trees-considered-harmful
 
 # Process
 http://firstround.com/review/bureaucracy-isnt-inevitable-heres-how-airbnb-beat-it/
