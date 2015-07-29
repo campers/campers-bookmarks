@@ -11,6 +11,10 @@ http://www.jooq.org/
 https://github.com/jOOQ/jOOL
 http://immutables.github.io/
 
+# Kotlin
+https://medium.com/@octskyward/why-kotlin-is-my-next-programming-language-c25c001e26e3
+http://kovenant.komponents.nl/
+
 # JS
 http://shyp.github.io/2015/07/13/speed-up-your-javascript-tests.html
 https://www.reddit.com/r/javascript/comments/3bkdmw/how_do_you_guys_find_memory_leaks/
