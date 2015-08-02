@@ -74,6 +74,7 @@ http://www.jasq.org/just-another-scala-quant/inverting-binary-trees-considered-h
 http://firstround.com/review/bureaucracy-isnt-inevitable-heres-how-airbnb-beat-it/
 https://news.ycombinator.com/item?id=9538858
 http://www.gustavoveloso.com/2015/08/02/engineering-culture/
+http://venturebeat.com/2015/08/01/our-startup-got-rid-of-email-meetings-and-managers-and-thrived/
 
 # Software
 http://socketcluster.io/
