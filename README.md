@@ -59,6 +59,9 @@ https://groups.google.com/forum/#!topic/objectify-appengine/-aYjluO6iIU (deleted
 https://gist.github.com/debasishg/8172796
 http://micvog.com/2015/07/18/frequency-counting-algorithms-over-data-streams/
 
+# Machine Learning
+http://xyclade.github.io/MachineLearning/
+
 # Testing
 https://www.lucidchart.com/techblog/2015/07/21/selenium-7-things-you-need-to-know-2/
 
