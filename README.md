@@ -53,6 +53,7 @@ http://www.infoq.com/news/2015/06/scaling-stack-overflow http://performanceterra
 
 # Data Modelling
 https://groups.google.com/forum/#!topic/objectify-appengine/-aYjluO6iIU (deleted flag on Google datastore)
+http://www.scribd.com/doc/16952419/Building-scalable-complex-apps-on-App-Engine
 
 # Algorithims
 ### Streaming
