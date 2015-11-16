@@ -51,6 +51,9 @@ http://stackoverflow.com/questions/16806297/how-to-create-a-reliable-chat-using-
 ## Scaling vertically
 http://www.infoq.com/news/2015/06/scaling-stack-overflow http://performanceterracotta.blogspot.com.au/2012/05/fast-predictable-highly-available-1.html http://www.infoq.com/news/2015/03/petabyte-jvms
 
+## Performance
+http://www.nateberkopec.com/2015/10/07/frontend-performance-chrome-timeline.html (Ludicrously Fast Page Loads)
+
 # Data Modelling
 https://groups.google.com/forum/#!topic/objectify-appengine/-aYjluO6iIU (deleted flag on Google datastore)
 http://www.scribd.com/doc/16952419/Building-scalable-complex-apps-on-App-Engine
