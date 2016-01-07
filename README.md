@@ -12,8 +12,11 @@ https://github.com/jOOQ/jOOL
 http://immutables.github.io/
 
 # Kotlin
+
+http://beust.com/weblog/2015/10/30/exploring-the-kotlin-standard-library/
 https://medium.com/@octskyward/why-kotlin-is-my-next-programming-language-c25c001e26e3
 http://kovenant.komponents.nl/
+
 
 # JS
 http://shyp.github.io/2015/07/13/speed-up-your-javascript-tests.html
