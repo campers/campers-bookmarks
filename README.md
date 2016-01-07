@@ -12,9 +12,20 @@ https://github.com/jOOQ/jOOL
 http://immutables.github.io/
 
 # Kotlin
+https://kotlinlang.org
 
+Overviews
 http://beust.com/weblog/2015/10/30/exploring-the-kotlin-standard-library/
+http://www.natpryce.com/articles/000815.html
 https://medium.com/@octskyward/why-kotlin-is-my-next-programming-language-c25c001e26e3
+
++ Quasar
+http://blog.paralleluniverse.co/2015/06/04/quasar-kotlin/
+http://blog.paralleluniverse.co/2015/08/28/quasar-0.7.3-comsat-0.5.0/
+http://blog.jetbrains.com/kotlin/2015/09/webinar-recording-quasar-efficient-and-elegant-fibers-channels-and-actors/
+http://paulosuzart.github.io/blog/2015/05/30/give-kotlin-and-quasar-a-try/
+
+Libs
 http://kovenant.komponents.nl/
 
 
