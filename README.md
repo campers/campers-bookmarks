@@ -2,107 +2,110 @@
 My list of bookmarks
 
 # Bookmark lists
-https://github.com/sindresorhus/awesome
+- https://github.com/sindresorhus/awesome
 
 # Java
-http://www.paralleluniverse.co/quasar/
-http://www.infoq.com/articles/Functional-Style-Callbacks-Using-CompletableFuture
-http://www.jooq.org/
-https://github.com/jOOQ/jOOL
-http://immutables.github.io/
+- http://www.paralleluniverse.co/quasar/
+- http://www.infoq.com/articles/Functional-Style-Callbacks-Using-CompletableFuture
+- http://www.jooq.org/
+- https://github.com/jOOQ/jOOL
+- http://immutables.github.io/
 
 # Kotlin
 https://kotlinlang.org
 
 Overviews
-http://beust.com/weblog/2015/10/30/exploring-the-kotlin-standard-library/
-http://www.natpryce.com/articles/000815.html
-https://medium.com/@octskyward/why-kotlin-is-my-next-programming-language-c25c001e26e3
+- http://beust.com/weblog/2015/10/30/exploring-the-kotlin-standard-library/
+- http://www.natpryce.com/articles/000815.html
+- https://medium.com/@octskyward/why-kotlin-is-my-next-programming-language-c25c001e26e3
 
 + Quasar
-http://blog.paralleluniverse.co/2015/06/04/quasar-kotlin/
-http://blog.paralleluniverse.co/2015/08/28/quasar-0.7.3-comsat-0.5.0/
-http://blog.jetbrains.com/kotlin/2015/09/webinar-recording-quasar-efficient-and-elegant-fibers-channels-and-actors/
-http://paulosuzart.github.io/blog/2015/05/30/give-kotlin-and-quasar-a-try/
+- http://blog.paralleluniverse.co/2015/06/04/quasar-kotlin/
+- http://blog.paralleluniverse.co/2015/08/28/quasar-0.7.3-comsat-0.5.0/
+- http://blog.jetbrains.com/kotlin/2015/09/webinar-recording-quasar-efficient-and-elegant-fibers-channels-and-actors/
+- http://paulosuzart.github.io/blog/2015/05/30/give-kotlin-and-quasar-a-try/
 
 Libs
-http://kovenant.komponents.nl/
+- http://kovenant.komponents.nl/
 
 
 # JS
-http://shyp.github.io/2015/07/13/speed-up-your-javascript-tests.html
-https://www.reddit.com/r/javascript/comments/3bkdmw/how_do_you_guys_find_memory_leaks/
-http://cycle.js.org/
-https://github.com/DrBoolean/mostly-adequate-guide
+- http://shyp.github.io/2015/07/13/speed-up-your-javascript-tests.html
+- https://www.reddit.com/r/javascript/comments/3bkdmw/how_do_you_guys_find_memory_leaks/
+- http://cycle.js.org/
+- https://github.com/DrBoolean/mostly-adequate-guide
 
 # DOM
-https://www.reddit.com/r/javascript/comments/3bdmki/why_is_the_dom_so_slow_but_other_markup_languages/
+- https://www.reddit.com/r/javascript/comments/3bdmki/why_is_the_dom_so_slow_but_other_markup_languages/
 
 # AngularJS
-https://www.airpair.com/angularjs/tips-n-tricks/speed-up-your-angular-apps-and-rid-sasqwatches
-http://blog.scalyr.com/2013/10/angularjs-1200ms-to-35ms/
-http://www.alexkras.com/11-tips-to-improve-angularjs-performance/
+- https://www.airpair.com/angularjs/tips-n-tricks/speed-up-your-angular-apps-and-rid-sasqwatches
+- http://blog.scalyr.com/2013/10/angularjs-1200ms-to-35ms/
+- http://www.alexkras.com/11-tips-to-improve-angularjs-performance/
 
 # Architecture
 
-http://www.infoq.com/news/2015/04/raffi-krikorian-rearchitecting
-http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/
-http://www.udidahan.com/2009/12/09/clarified-cqrs/
+- http://www.infoq.com/news/2015/04/raffi-krikorian-rearchitecting
+- http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/
+- http://www.udidahan.com/2009/12/09/clarified-cqrs/
+- http://techblog.realestate.com.au/how-we-used-category-theory-to-solve-a-problem-in-java/
 
 ### API Design
-http://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-api/
-http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
+- http://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-api/
+- http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
 
 
 ## UI
-http://omniscientjs.github.io/guides/01-simpler-ui-reasoning-with-unidirectional/
+- http://omniscientjs.github.io/guides/01-simpler-ui-reasoning-with-unidirectional/
 
 ## Chat
-https://blog.rotenberg.io/million-user-webchat-with-full-stack-flux-react-redis-and-postgresql/
-https://medium.com/@davidbyttow/scaling-secret-real-time-chat-d8589f8f0c9b
-http://stackoverflow.com/questions/16806297/how-to-create-a-reliable-chat-using-google-app-engine-data-store-hre
+- https://blog.rotenberg.io/million-user-webchat-with-full-stack-flux-react-redis-and-postgresql/
+- https://medium.com/@davidbyttow/scaling-secret-real-time-chat-d8589f8f0c9b
+- http://stackoverflow.com/questions/16806297/how-to-create-a-reliable-chat-using-google-app-engine-data-store-hre
 
 ## Scaling vertically
 http://www.infoq.com/news/2015/06/scaling-stack-overflow http://performanceterracotta.blogspot.com.au/2012/05/fast-predictable-highly-available-1.html http://www.infoq.com/news/2015/03/petabyte-jvms
 
 ## Performance
-http://www.nateberkopec.com/2015/10/07/frontend-performance-chrome-timeline.html (Ludicrously Fast Page Loads)
+- http://www.nateberkopec.com/2015/10/07/frontend-performance-chrome-timeline.html (Ludicrously Fast Page Loads)
 
 # Data Modelling
-https://groups.google.com/forum/#!topic/objectify-appengine/-aYjluO6iIU (deleted flag on Google datastore)
-http://www.scribd.com/doc/16952419/Building-scalable-complex-apps-on-App-Engine
+- https://groups.google.com/forum/#!topic/objectify-appengine/-aYjluO6iIU (deleted flag on Google datastore)
+- http://www.scribd.com/doc/16952419/Building-scalable-complex-apps-on-App-Engine
 
 # Algorithims
 ### Streaming
-https://gist.github.com/debasishg/8172796
-http://micvog.com/2015/07/18/frequency-counting-algorithms-over-data-streams/
+- https://gist.github.com/debasishg/8172796
+- http://micvog.com/2015/07/18/frequency-counting-algorithms-over-data-streams/
 
 # Machine Learning
-http://xyclade.github.io/MachineLearning/
+- http://xyclade.github.io/MachineLearning/
 
 # Testing
-https://www.lucidchart.com/techblog/2015/07/21/selenium-7-things-you-need-to-know-2/
+- https://www.lucidchart.com/techblog/2015/07/21/selenium-7-things-you-need-to-know-2/
 
 # UX
-http://www.lukew.com/ff/entry.asp?1950 Dropdowns Should be the UI of Last Resort
+- http://www.lukew.com/ff/entry.asp?1950 Dropdowns Should be the UI of Last Resort
 
 # Hiring
-http://www.infoq.com/news/2015/04/dod-ljubljana-2015-hiring
-https://medium.com/@mpjme/how-do-you-judge-a-javascript-programmer-by-only-5-questions-f2abdf7dfd4a
-http://www.jasq.org/just-another-scala-quant/inverting-binary-trees-considered-harmful
+- http://www.infoq.com/news/2015/04/dod-ljubljana-2015-hiring
+- https://medium.com/@mpjme/how-do-you-judge-a-javascript-programmer-by-only-5-questions-f2abdf7dfd4a
+- http://www.jasq.org/just-another-scala-quant/inverting-binary-trees-considered-harmful
 
 # Process
-http://firstround.com/review/bureaucracy-isnt-inevitable-heres-how-airbnb-beat-it/
-https://news.ycombinator.com/item?id=9538858
-http://www.gustavoveloso.com/2015/08/02/engineering-culture/
-http://venturebeat.com/2015/08/01/our-startup-got-rid-of-email-meetings-and-managers-and-thrived/
+- http://firstround.com/review/bureaucracy-isnt-inevitable-heres-how-airbnb-beat-it/
+- https://news.ycombinator.com/item?id=9538858
+- http://www.gustavoveloso.com/2015/08/02/engineering-culture/
+- http://venturebeat.com/2015/08/01/our-startup-got-rid-of-email-meetings-and-managers-and-thrived/
 
 # Software
 http://socketcluster.io/
 
-#Services
+# Services
+- https://www.imgix.com/
 ### Realtime
-http://framework.realtime.co/messaging/
-https://layer.com/
+- http://framework.realtime.co/messaging/
+- https://layer.com/
 ### DB
-https://www.compose.io/postgresql/
+- https://www.compose.io/postgresql/
+- https://databaselabs.io/
