@@ -39,6 +39,7 @@ Libs
 - https://www.reddit.com/r/javascript/comments/3bdmki/why_is_the_dom_so_slow_but_other_markup_languages/
 
 # AngularJS
+- https://medium.com/@bluepnume/sane-scalable-angular-apps-are-tricky-but-not-impossible-lessons-learned-from-paypal-checkout-c5320558d4ef
 - https://www.airpair.com/angularjs/tips-n-tricks/speed-up-your-angular-apps-and-rid-sasqwatches
 - http://blog.scalyr.com/2013/10/angularjs-1200ms-to-35ms/
 - http://www.alexkras.com/11-tips-to-improve-angularjs-performance/
