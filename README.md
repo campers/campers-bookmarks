@@ -4,6 +4,7 @@ My list of bookmarks
 # Bookmark lists
 - https://github.com/sindresorhus/awesome
 - https://github.com/deephacks/awesome-jvm
+- https://github.com/akullpp/awesome-java
 
 # Java
 - http://www.paralleluniverse.co/quasar/
