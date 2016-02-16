@@ -7,6 +7,7 @@ My list of bookmarks
 - https://github.com/akullpp/awesome-java
 - https://github.com/dhamaniasad/awesome-postgres
 - http://shlomi-noach.github.io/awesome-mysql/
+- https://github.com/sindresorhus/awesome-nodejs
 
 # Java
 - http://www.paralleluniverse.co/quasar/
