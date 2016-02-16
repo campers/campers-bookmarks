@@ -3,12 +3,15 @@ My list of bookmarks
 
 # Bookmark lists
 - https://github.com/sindresorhus/awesome
+My fave awesomes
 - https://github.com/deephacks/awesome-jvm
 - https://github.com/akullpp/awesome-java
 - https://github.com/dhamaniasad/awesome-postgres
 - http://shlomi-noach.github.io/awesome-mysql/
 - https://github.com/sindresorhus/awesome-nodejs
-
+- https://github.com/JavaBy/awesome-kotlin
+- https://github.com/AngularClass/awesome-angular2
+- 
 # Java
 - http://www.paralleluniverse.co/quasar/
 - http://www.infoq.com/articles/Functional-Style-Callbacks-Using-CompletableFuture
