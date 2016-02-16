@@ -5,6 +5,8 @@ My list of bookmarks
 - https://github.com/sindresorhus/awesome
 - https://github.com/deephacks/awesome-jvm
 - https://github.com/akullpp/awesome-java
+- https://github.com/dhamaniasad/awesome-postgres
+- http://shlomi-noach.github.io/awesome-mysql/
 
 # Java
 - http://www.paralleluniverse.co/quasar/
