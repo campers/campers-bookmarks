@@ -43,6 +43,10 @@ Libs
 - http://cycle.js.org/
 - https://github.com/DrBoolean/mostly-adequate-guide
 
+# Angular 2
+- https://www.npmjs.com/package/angular2-easy-forms
+- https://www.npmjs.com/package/ng2-magic-forms
+
 # DOM
 - https://www.reddit.com/r/javascript/comments/3bdmki/why_is_the_dom_so_slow_but_other_markup_languages/
 
