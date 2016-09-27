@@ -12,6 +12,10 @@ My fave awesomes
 - https://github.com/JavaBy/awesome-kotlin
 - https://github.com/AngularClass/awesome-angular2
 
+# Neural nets
+- http://brohrer.github.io/how_convolutional_neural_networks_work.html
+- http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
 # Java
 - http://www.paralleluniverse.co/quasar/
 - http://www.infoq.com/articles/Functional-Style-Callbacks-Using-CompletableFuture
