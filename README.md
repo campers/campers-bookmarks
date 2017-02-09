@@ -131,3 +131,8 @@ http://socketcluster.io/
 ### DB
 - https://www.compose.io/postgresql/
 - https://databaselabs.io/
+
+# Case Studies
+- https://slack.engineering/search-at-slack-431f8c80619e#.pgbvcque7o
+- https://blog.discordapp.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7
+
