@@ -93,6 +93,9 @@ http://www.infoq.com/news/2015/06/scaling-stack-overflow http://performanceterra
 - http://www.scribd.com/doc/16952419/Building-scalable-complex-apps-on-App-Engine
 
 # Algorithims
+### Shortest Path
+- https://news.ycombinator.com/item?id=13687507
+
 ### Streaming
 - https://gist.github.com/debasishg/8172796
 - http://micvog.com/2015/07/18/frequency-counting-algorithms-over-data-streams/
