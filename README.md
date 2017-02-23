@@ -71,6 +71,8 @@ Libs
 
 ### API Design
 - https://cloud.google.com/apis/design/
+- https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
+- http://json-ld.org/spec/latest/json-ld-api-best-practices/
 - http://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-api/
 - http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
 
