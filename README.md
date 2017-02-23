@@ -70,6 +70,7 @@ Libs
 - http://techblog.realestate.com.au/how-we-used-category-theory-to-solve-a-problem-in-java/
 
 ### API Design
+- https://cloud.google.com/apis/design/
 - http://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-api/
 - http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
 
