@@ -63,7 +63,7 @@ Libs
 - https://github.com/AlexYankee/ionic-webpack-starter
 
 # Architecture
-
+- https://hackernoon.com/rest-over-websockets-instead-of-http-81b0f0632295
 - http://www.infoq.com/news/2015/04/raffi-krikorian-rearchitecting
 - http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/
 - http://www.udidahan.com/2009/12/09/clarified-cqrs/
@@ -143,3 +143,5 @@ http://socketcluster.io/
 - https://blog.discordapp.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7
 - https://practicoanalytics.com/mint-uses-messages-retention/
 
+### Redux
+- https://medium.com/statuscode/dissecting-twitters-redux-store-d7280b62c6b1
