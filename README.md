@@ -26,6 +26,10 @@ My fave awesomes
 # Kotlin
 https://kotlinlang.org
 
+- http://blog.alexnesterov.com/post/kotlin-coroutines-and-spring-5/
+- https://blog.simon-wirtz.de/kotlin-coroutines-guide/
+- https://blog.simon-wirtz.de/function-literals-with-receiver-quick-introduction/
+
 Overviews
 - http://beust.com/weblog/2015/10/30/exploring-the-kotlin-standard-library/
 - http://www.natpryce.com/articles/000815.html
