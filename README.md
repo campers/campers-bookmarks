@@ -11,14 +11,21 @@ My fave awesomes
 - https://github.com/sindresorhus/awesome-nodejs
 - https://github.com/JavaBy/awesome-kotlin
 - https://github.com/AngularClass/awesome-angular2
+- https://github.com/dhamaniasad/awesome-postgres
+
+# Postgresql
+- https://heap.engineering/dont-iterate-over-a-postgres-array-with-a-loop/
+- https://heap.engineering/analyzing-performance-millions-sql-queries-one-special-snowflake/
+
+# SQL
+- http://allyouneedisbackend.com/blog/2017/09/24/the-sql-i-love-part-1-scanning-large-table/
+- https://blog.jooq.org/2017/09/28/10-cool-sql-optimisations-that-do-not-depend-on-the-cost-model/
+
 
 # Neural nets
 - http://brohrer.github.io/how_convolutional_neural_networks_work.html
 - http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
-# SQL
-- http://allyouneedisbackend.com/blog/2017/09/24/the-sql-i-love-part-1-scanning-large-table/
-- https://blog.jooq.org/2017/09/28/10-cool-sql-optimisations-that-do-not-depend-on-the-cost-model/
 
 # Java
 - http://www.paralleluniverse.co/quasar/
